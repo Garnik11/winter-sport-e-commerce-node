@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "garnik2000",
+    "database": "e-commerce",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "garnik2000",
+    "database": "e-commerce",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "garnik2000",
+    "database": "e-commerce",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
